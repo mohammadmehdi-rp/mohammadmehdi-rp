@@ -1,6 +1,19 @@
-# 💫 About Me:
-Hi there, I'm Mohammad! 👋<br><br>🚀 Full-Stack Engineer | Springboot | React<br><br>I'm a software engineer passionate about building scalable backend systems, integrating multiple products, and optimizing performance. <br>With a solid background in Java, Spring Boot, and AWS, I focus on crafting high-quality, resilient applications. <br>My experience spans backend development, cloud infrastructure, and frontend frameworks like React and TypeScript.<br><br>🔹 What I Do:<br><br>💻 Backend Development: Java 17/21, Spring Boot, Kotlin<br><br>☁️ Cloud & DevOps: AWS (EKS, Lambda, Cognito, S3, DynamoDB), Docker, Kubernetes, Terraform<br><br>🗄️ Databases & Streaming: PostgreSQL, Redis, Elasticsearch, Kafka, MongoDB<br><br>🎨 Frontend & Full-Stack: React, TypeScript, Next.js<br><br>🔐 Security & Observability: Authentication & Authorization, ELK, Grafana, Looker<br><br>🌟 Projects & Portfolio<br><br>Check out my projects showcasing:<br><br>Lead Developer for Western Sydney University's Edge<br>FullStack Developer For MaadCrm<br>Safeproud Maintainer<br>DineDesign <br>Android Applications
-
+# <div align='center'>Hi there, I'm Mohammad! 👋</div>
+<div align='center'>🚀 Full-Stack Engineer | Springboot | React<br><br>I'm a software engineer passionate about building scalable backend systems, integrating multiple products, and optimizing performance. <br>With a solid background in Java, Spring Boot, and AWS, I focus on crafting high-quality, resilient applications. <br>My experience spans backend development, cloud infrastructure, and frontend frameworks like React and TypeScript.<br><br></div><ul>
+  <li>💻 <strong>Backend Development:</strong> Java 17/21, Spring Boot, Kotlin, Quarkus</li>
+  <li>☁️ <strong>Cloud & DevOps:</strong> AWS (EKS, Lambda, Cognito, S3, DynamoDB), Docker, Kubernetes, Terraform</li>
+  <li>🗄️ <strong>Databases & Streaming:</strong> PostgreSQL, Redis, Elasticsearch, Kafka, MongoDB</li>
+  <li>🎨 <strong>Frontend & Full-Stack:</strong> React, TypeScript, Next.js</li>
+  <li>🔐 <strong>Security & Observability:</strong> Authentication & Authorization, ELK, Grafana, Looker</li>
+</ul>
+🌟 Projects & Portfolio<br>
+<ul>
+  <li><a href="https://www.edge.westernsydney.edu.au">Lead Developer for Western Sydney University's Edge</a></li>
+  <li><a href="https://www.maadcrm.ir">FullStack Developer For MaadCrm</a></li>
+  <li><a href="https://www.safeproud.com.au">Safeproud Maintainer</a></li>
+  <li><a href="https://www.cafebazaar.ir/app/ir.shoppage.store?l=en">Android Applications</a></li>
+  <li>DineDesign</li> 
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-mehdi-rajabpour-shz) 
@@ -10,9 +23,5 @@ Hi there, I'm Mohammad! 👋<br><br>🚀 Full-Stack Engineer | Springboot | Reac
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohammadmehdi-rp&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mohammadmehdi-rp&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmehdi-rp&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=mohammadmehdi-rp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
