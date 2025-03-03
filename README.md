@@ -8,10 +8,10 @@
 </ul>
 🌟 <strong>Projects & Portfolio</strong><br>
 <ul>
-  <li><a target="_blank" href="https://edge.westernsydney.edu.au">Lead Developer for Western Sydney University's Edge</a></li>
-  <li><a target="_blank" href="https://www.maadcrm.ir">FullStack Developer For MaadCrm</a></li>
-  <li><a target="_blank" href="https://www.safeproud.com.au">Safeproud Maintainer</a></li>
-  <li><a target="_blank" href="https://www.cafebazaar.ir/app/ir.shoppage.store?l=en">Android Applications</a></li>
+  <li><a href="https://edge.westernsydney.edu.au" target="_blank">Lead Developer for Western Sydney University's Edge</a></li>
+  <li><a href="https://www.maadcrm.ir" target="_blank">FullStack Developer For MaadCrm</a></li>
+  <li><a href="https://www.safeproud.com.au" target="_blank">Safeproud Maintainer</a></li>
+  <li><a href="https://www.cafebazaar.ir/app/ir.shoppage.store?l=en" target="_blank">Android Applications</a></li>
   <li>DineDesign</li> 
 </ul>
 
