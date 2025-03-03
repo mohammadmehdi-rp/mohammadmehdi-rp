@@ -8,7 +8,7 @@
 </ul>
 🌟 <strong>Projects & Portfolio</strong><br>
 <ul>
-  <li><a href="https://www.edge.westernsydney.edu.au">Lead Developer for Western Sydney University's Edge</a></li>
+  <li><a href="https://edge.westernsydney.edu.au">Lead Developer for Western Sydney University's Edge</a></li>
   <li><a href="https://www.maadcrm.ir">FullStack Developer For MaadCrm</a></li>
   <li><a href="https://www.safeproud.com.au">Safeproud Maintainer</a></li>
   <li><a href="https://www.cafebazaar.ir/app/ir.shoppage.store?l=en">Android Applications</a></li>
